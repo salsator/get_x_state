@@ -49,6 +49,8 @@ class _HeroCreatePageState extends State<HeroCreatePage> {
                   ] else ... [
                     Text("ne")],
                   Spacer(flex: 10,),
+                /*  StreamBuilder(
+                    builder: (context, snapshot) {  },)*/
                 ],
               ),
             ),
